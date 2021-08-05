@@ -1,0 +1,20 @@
+{
+    "name": "ziyoren/commoninterfaces",
+    "description": "ziyo openapi common interface",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Ziyoren\\Commoninterfaces\\": "src/",
+            "Tests\\": "tests/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Liao Jianshan",
+            "email": "10775937@qq.com"
+        }
+    ],
+    "require": {
+        "php": "*"
+    }
+}
